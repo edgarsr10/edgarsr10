@@ -5,15 +5,20 @@
 ## Soy estudiante y desarrollador de Software
 
 ## 🔎 Mis estadisticas:
-    
+
+[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=visitar&url=https%3A%2F%2Fwww.facebook.com%2Fedgar.bodom%2F)](https://www.facebook.com/edgar.bodom/)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsr10&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsr10&show_icons=true&theme=tokyonight)
 
-[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=visitar&url=https%3A%2F%2Fwww.facebook.com%2Fedgar.bodom%2F)](https://www.facebook.com/edgar.bodom/)
+⚡ Trabajando con la Suite de Adobe [<img align="left" alt="AdobeSuite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />]
 <!-- 
 abhisheknaiidu
 anuraghazra
+https://www.shields.io/
+https://gist.github.com/rxaviers/7360908
+https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/
 
 ### Contactame!:
 
