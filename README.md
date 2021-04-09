@@ -6,9 +6,14 @@
 
 ## 🔎 Mis estadisticas:
     
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsr10&show_icons=true&theme=tokyonight)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsr10&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsr10&show_icons=true&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsr10&show_icons=true&theme=tokyonight)
+
+[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=visitar&url=https%3A%2F%2Fwww.facebook.com%2Fedgar.bodom%2F)](https://www.facebook.com/edgar.bodom/)
+<!-- 
+abhisheknaiidu
+anuraghazra
 
 ### Contactame!:
 
@@ -30,3 +35,4 @@ __Generales:__
 [Facebook]: https://www.facebook.com/edgar.bodom
 
 
+-->
