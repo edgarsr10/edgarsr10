@@ -17,10 +17,10 @@
 - ⚡ Trabajando con C [<img align="left" alt="AdobeSuite" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][C]
 
 
-<!-- Referencia a Adobe -->
 [Adobe]: https://www.adobe.com/mx/ 
-<!-- Referencia a C -->
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
+
+
 <!-- 
 abhisheknaiidu
 anuraghazra
@@ -28,6 +28,7 @@ https://www.shields.io/
 https://gist.github.com/rxaviers/7360908
 https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/
 https://github.com/jmnote/z-icons
+https://github.com/devicons/devicon
 
 ### Contactame!:
 
