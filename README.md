@@ -24,7 +24,7 @@ __Generales:__
 <details>
     <summary>🔎 Ver</summary>
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsr10&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarsr10&show_icons=true&theme=tokyonight)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarsr10&show_icons=true&theme=tokyonight)
 
